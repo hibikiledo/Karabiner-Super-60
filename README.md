@@ -7,7 +7,7 @@ This is not the complete clone yet.
 
 ## The layout
 
-Holding down the left CONTROL key gives you access to the following layer.
+Holding down the LEFT CONTROL key gives you access to the following layer.
 
 
          +------+ +------+ +------+ +------+
