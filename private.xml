@@ -4,62 +4,62 @@
 		<name>Super 60</name>
 		<appendix>Test out 60% keyboard</appendix>
 		<appendix>Karabiner clone of https://github.com/tams/super-60.ahk</appendix>
-    	<identifier>super-60</identifier>
-    	<autogen>
-    		__KeyToKey__
-    		KeyCode::U, ModifierFlag::CONTROL_L,
-    		KeyCode::DELETE
-    	</autogen>
-    	<autogen>
-    		__KeyToKey__
-    		KeyCode::I, ModifierFlag::CONTROL_L,
-    		KeyCode::DELETE
-    	</autogen>
-    	<autogen>
-    		__KeyToKey__
-    		KeyCode::O, ModifierFlag::CONTROL_L,
-    		KeyCode::PC_INSERT
-    	</autogen>
-    	<autogen>
-    		__KeyToKey__
-    		KeyCode::P, ModifierFlag::CONTROL_L,
-    		KeyCode::PAGEUP
-    	</autogen>
-    	<autogen>
-    		__KeyToKey__
-    		KeyCode::K, ModifierFlag::CONTROL_L,
-    		KeyCode::CURSOR_UP
-    	</autogen>
-    	<autogen>
-    		__KeyToKey__
-    		KeyCode::SEMICOLON, ModifierFlag::CONTROL_L,
-    		KeyCode::PAGEDOWN
-    	</autogen>
-    	<autogen>
-    		__KeyToKey__
-    		KeyCode::N, ModifierFlag::CONTROL_L,
-    		KeyCode::HOME
-    	</autogen>
-    	<autogen>
-    		__KeyToKey__
-    		KeyCode::M, ModifierFlag::CONTROL_L,
-    		KeyCode::CURSOR_LEFT
-    	</autogen>
-    	<autogen>
-    		__KeyToKey__
-    		KeyCode::COMMA, ModifierFlag::CONTROL_L,
-    		KeyCode::CURSOR_DOWN
-    	</autogen>
-    	<autogen>
-    		__KeyToKey__
-    		KeyCode::DOT, ModifierFlag::CONTROL_L,
-    		KeyCode::
-    		CURSOR_RIGHT
-    	</autogen>
-    	<autogen>
-    		__KeyToKey__
-    		KeyCode::SLASH, ModifierFlag::CONTROL_L,
-    		KeyCode::END
-    	</autogen>
+    		<identifier>super-60</identifier>
+    		<autogen>
+	    		__KeyToKey__
+	    		KeyCode::U, ModifierFlag::CONTROL_L,
+	    		KeyCode::DELETE
+    		</autogen>
+	    	<autogen>
+	    		__KeyToKey__
+	    		KeyCode::I, ModifierFlag::CONTROL_L,
+	    		KeyCode::DELETE
+	    	</autogen>
+	    	<autogen>
+	    		__KeyToKey__
+	    		KeyCode::O, ModifierFlag::CONTROL_L,
+	    		KeyCode::PC_INSERT
+	    	</autogen>
+	    	<autogen>
+	    		__KeyToKey__
+	    		KeyCode::P, ModifierFlag::CONTROL_L,
+	    		KeyCode::PAGEUP
+	    	</autogen>
+	    	<autogen>
+	    		__KeyToKey__
+	    		KeyCode::K, ModifierFlag::CONTROL_L,
+	    		KeyCode::CURSOR_UP
+	    	</autogen>
+	    	<autogen>
+	    		__KeyToKey__
+	    		KeyCode::SEMICOLON, ModifierFlag::CONTROL_L,
+	    		KeyCode::PAGEDOWN
+	    	</autogen>
+	    	<autogen>
+	    		__KeyToKey__
+	    		KeyCode::N, ModifierFlag::CONTROL_L,
+	    		KeyCode::HOME
+	    	</autogen>
+	    	<autogen>
+	    		__KeyToKey__
+	    		KeyCode::M, ModifierFlag::CONTROL_L,
+	    		KeyCode::CURSOR_LEFT
+	    	</autogen>
+	    	<autogen>
+	    		__KeyToKey__
+	    		KeyCode::COMMA, ModifierFlag::CONTROL_L,
+	    		KeyCode::CURSOR_DOWN
+	    	</autogen>
+	    	<autogen>
+	    		__KeyToKey__
+	    		KeyCode::DOT, ModifierFlag::CONTROL_L,
+	    		KeyCode::
+	    		CURSOR_RIGHT
+	    	</autogen>
+	    	<autogen>
+	    		__KeyToKey__
+	    		KeyCode::SLASH, ModifierFlag::CONTROL_L,
+	    		KeyCode::END
+	    	</autogen>
 	</item>
 </root>
