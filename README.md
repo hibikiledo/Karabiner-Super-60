@@ -1,4 +1,4 @@
-Karaniber clone of [super-60.ahk](https://github.com/tams/super-60.ahk)
+Karabiner clone of [super-60.ahk](https://github.com/tams/super-60.ahk)
 ===============
 
 ## Todo
